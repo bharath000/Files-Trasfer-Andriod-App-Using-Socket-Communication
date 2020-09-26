@@ -7,9 +7,9 @@ Server Memory acts as storage for the server, all the files transfered, displaye
 Server/ServerSocket is the Server code, whcih accepts different requests from client and respond to them.
 
 ### Infrastructure
-Java 11
-Andriod OS >5.1 with Emulator/Mobile (Mobile that support Permissions for OS Level system calls)
-Android Studio 4
+Java 11 <br>
+Andriod OS >5.1 with Emulator/Mobile (Mobile that support Permissions for OS Level system calls)<br>
+Android Studio 4<br>
 
 
 ### Android App Screens
